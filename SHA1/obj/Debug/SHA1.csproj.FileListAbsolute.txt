@@ -1,0 +1,5 @@
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\SHA1\bin\Debug\SHA1.dll
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\SHA1\bin\Debug\SHA1.pdb
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\SHA1\obj\Debug\SHA1.dll
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\SHA1\obj\Debug\SHA1.pdb
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\SHA1\obj\Debug\SHA1.csprojResolveAssemblyReference.cache

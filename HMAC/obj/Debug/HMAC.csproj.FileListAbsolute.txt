@@ -1,0 +1,9 @@
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\bin\Debug\HMAC.exe
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\bin\Debug\HMAC.pdb
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\obj\Debug\HMAC.Properties.Resources.resources
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\obj\Debug\HMAC.csproj.GenerateResource.Cache
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\obj\Debug\HMAC.exe
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\obj\Debug\HMAC.pdb
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\bin\Debug\SHA1.dll
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\bin\Debug\SHA1.pdb
+F:\Dropbox\IDC\D\אבטחת מידע\Ex\HMAC\HMAC\obj\Debug\HMAC.csprojResolveAssemblyReference.cache
